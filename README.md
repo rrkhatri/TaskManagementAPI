@@ -1,11 +1,11 @@
 # Task-Management
 
+## System Requirement
+#### PHP: 8.3
+
 ## ENV file
 copy contents of `env.example`, and paste it in `.env` by creating new file.
 Do change `VITE_APP_API_URL` according to the API backend base URL.
-
-## System Requirement
-#### PHP: 8.3
 
 
 ## Project Setup
