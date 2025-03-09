@@ -24,10 +24,14 @@ php artisan migrate
 php artisan db:seed
 ```
 
-## Default Credentials
+### Default Credentials
 
 ```
 email: test@test.com
 password: password
 ```
 You can use these credentials for login, which has 100 tasks seeded already.
+
+## Postman Collection
+You can find postman collection at the root of the project.
+[TaskManagement.postman_collection.json](TaskManagement.postman_collection.json)
